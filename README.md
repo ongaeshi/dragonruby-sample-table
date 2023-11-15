@@ -2,7 +2,7 @@
 DragonRuby をインストールした状態でサンプルコードの配置されたディレクトリを指定して実行する。
 
 ```
-$ dragonruby samples/11_http/01_retrieve_images
+$ dragonruby samples/01_rendering_basics/01_labels
 ```
 
 # サンプルコード一覧表
